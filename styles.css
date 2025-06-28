@@ -1105,6 +1105,12 @@ header .header-container {
 }
 
 
+
+
+
+
+
+/*Research experience  */
 /* body {
             font-family: 'Poppins', sans-serif;
             line-height: 1.6;
@@ -1153,7 +1159,7 @@ header .header-container {
         
 .job-title {
             font-weight: 600;
-            color: #2c3e50;
+            color: #ffffff;
             font-size: 1.1em;
             margin-bottom: 5px;
         }
@@ -1181,6 +1187,7 @@ header .header-container {
             padding: 8px 0;
             padding-left: 25px;
             position: relative;
+            color: #ffffff;
         }
         
 .responsibilities li:before {
